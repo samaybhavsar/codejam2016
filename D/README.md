@@ -17,7 +17,7 @@ For example, for an original sequence of LGL, the pieces of artwork with complex
 
 Here's an illustration of how the artwork with complexity 2 is generated from the artwork with complexity 1:
 
-(https://dl.dropboxusercontent.com/s/k28y0mcwcu6e0sh/download.png)
+![](https://code.google.com/codejam/contest/images/?image=fractiles.png&p=5636311922769920&c=6254486)
 
 You have just discovered a piece of Fractal artwork, but the tiles are too dirty for you to tell what they are made of. Because you are an expert archaeologist familiar with the local Fractal culture, you know the values of K and C for the artwork, but you do not know the original sequence. Since gold is exciting, you would like to know whether there is at least one G tile in the artwork. Your budget allows you to hire S graduate students, each of whom can clean one tile of your choice (out of the K<sup>C</sup> tiles in the artwork) to see whether the tile is G or L.
 
