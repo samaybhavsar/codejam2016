@@ -42,12 +42,12 @@ For each test case, output one line containing Case #x: y, where x is the test c
 11  
 1692
 
-#### Output
+#### Output  
 
-Case #1: INSOMNIA
-Case #2: 10
-Case #3: 90
-Case #4: 110
+Case #1: INSOMNIA  
+Case #2: 10  
+Case #3: 90  
+Case #4: 110  
 Case #5: 5076
 
 
